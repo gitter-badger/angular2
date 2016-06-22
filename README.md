@@ -1,4 +1,6 @@
 #### Master 
+
+[![Join the chat at https://gitter.im/dfmartin/angular2](https://badges.gitter.im/dfmartin/angular2.svg)](https://gitter.im/dfmartin/angular2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/dfmartin/angular2.svg?branch=master)](https://travis-ci.org/dfmartin/angular2) 
 [![bitHound Overall Score](https://www.bithound.io/github/dfmartin/angular2/badges/score.svg)](https://www.bithound.io/github/dfmartin/angular2)
 [![bitHound Dependencies](https://www.bithound.io/github/dfmartin/angular2/badges/dependencies.svg)](https://www.bithound.io/github/dfmartin/angular2/master/dependencies/npm)
